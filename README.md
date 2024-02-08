@@ -6,11 +6,11 @@
 
 - 🥺 Currently, I'm learning about system administration and website deveopment
 - :speech_balloon: Ask me about anything, I will respond as fast as possible
-- 🖨️: 3d Printing Enthusiast with 2 Ender3 Pros
-- 💻: Specs for main PC: I9 9900k @3.6Ghz, 64gbs of DDR4, GTX 1650 Super
-- 💻: Specs for Test PC: I5 8400 @2.8Ghz, 16gbs of DDR4, No GPU
+- 🖨️: 3d Printing Enthusiast with 2 Ender3 Pros and a Flashforge Adventure 5M
+- 💻: Specs for main PC: I9 9900k @3.6Ghz, 64gbs of DDR4, RTX 3060
+- 💻: Specs for Test PC: I5 8400 @2.8Ghz, 16gbs of DDR4, GTX 1650 Super
 - 💻: Specs for Laptop: I5 8300H @3.9Ghz, 8gbs of DDR4, GTX 1050
 
 
- Last Updated on 06/07/2022
+ Last Updated on 02/08/2024
 <!--END_SECTION:waka-->
